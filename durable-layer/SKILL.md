@@ -53,7 +53,7 @@ Stdlib only. Use it whenever code execution is available; otherwise compute by h
 
 ## Output
 
-- Language follows the user; English terms are canonical — give them in parentheses on first use in another language, e.g. *niveau de préparation (readiness level)*, *plancher de logique (logic floor)*, *fiche-cadre (Frame Card)* (`glossary.md` has provisional French).
+- Language follows the user; English terms are canonical — give them in parentheses on first use in another language, e.g. *niveau de préparation (readiness level)*, *plancher de logique (logic floor)*, *fiche-cadre (Frame Card)* (`glossary.md` has the French edition's terms).
 - Markdown tables and templates ready to paste into a wiki or a document; blanks stay visible.
 - First person plural is fine; British spelling with "organization"; none of: leverage, unlock, game-changer, journey, ecosystem, robust, seamless, delve, navigate, landscape.
 - End with up to three concrete next actions (owner, date), drawn from the chapter's Monday-morning list — and, for leadership audiences, the closing question: *What will be in your durable layer by the end of this year that every future tool can use?*
