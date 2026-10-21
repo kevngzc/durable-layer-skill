@@ -23,6 +23,11 @@ flowchart LR
     S --> M["roadmap.md<br/>+ principles.md"]
 ```
 
+## 🎧 Podcast
+
+*The Durable Layer for Enterprise AI* — a 26-minute audio overview of the book's method.
+[Download (m4a, 50 MB)](https://github.com/kevngzc/durable-layer-skill/releases/download/v0.1.0/The_Durable_Layer_for_Enterprise_AI.m4a) · attached to the [v0.1.0 release](https://github.com/kevngzc/durable-layer-skill/releases/tag/v0.1.0).
+
 ## Install
 
 **Claude Code**
@@ -32,11 +37,7 @@ ln -s ~/Developer/durable-layer-skill/durable-layer ~/.claude/skills/durable-lay
 ```
 Edit through the real path (`~/Developer/durable-layer-skill/durable-layer/…`); Claude Code write-protects `~/.claude/**`.
 
-**claude.ai / Claude Desktop**
-```bash
-scripts/package.sh          # → dist/durable-layer.skill
-```
-Upload it under *Settings → Capabilities → Skills*.
+**claude.ai / Claude Desktop** — download [`durable-layer.skill`](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/durable-layer.skill) from the latest release (or build it with `scripts/package.sh` → `dist/durable-layer.skill`) and upload it under *Settings → Capabilities → Skills*.
 
 ## Layout
 
