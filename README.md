@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/scorer-stdlib%20Python-1b2a41)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](LICENSE)
 
-Applies the method of ***The Durable Layer — Making your organization AI-ready without rebuilding it for every new model*** (Kevin Guezennec) inside Claude: **invest in the durable layer, rent the replaceable one, and never let the replaceable layer hold the durable one.**
+Applies the method of ***The Durable Layer — AI readiness that outlasts every trend*** (Kevin Guezennec) inside Claude: **invest in the durable layer, rent the replaceable one, and never let the replaceable layer hold the durable one.**
 
 | Mode | What you get |
 |---|---|
