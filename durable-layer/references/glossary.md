@@ -1,12 +1,12 @@
 # Fixed vocabulary
 
-Use these terms exactly. English is canonical; when answering in another language, translate the term and give the English in parentheses on first use. French renderings below follow the French edition's lexicon (Appendix I of *La couche durable*).
+Use these terms exactly. English is canonical; when answering in another language, translate the term and give the English in parentheses on first use. French renderings below follow the French edition's lexicon (Appendix I of *La strate durable*).
 
 | Term | Meaning | FR |
 |---|---|---|
-| **durable layer** | What the organization owns and that every future tool reads: governed data, vocabulary, wiki, rules and tests, Frame Cards, expertise, roles, policies, decision tables, tool contracts, logs | couche durable |
-| **replaceable layer** | What is rented and swapped: models, assistants, agent frameworks, interfaces, protocol versions, search indexes, managed services | couche remplaçable |
-| **Two-Layer Ledger** | Two-column list, durable vs replaceable (never "Asset Ledger") | registre à deux couches |
+| **durable layer** | What the organization owns and that every future tool reads: governed data, vocabulary, wiki, rules and tests, Frame Cards, expertise, roles, policies, decision tables, tool contracts, logs | strate durable |
+| **replaceable layer** | What is rented and swapped: models, assistants, agent frameworks, interfaces, protocol versions, search indexes, managed services | strate remplaçable |
+| **Two-Layer Ledger** | Two-column list, durable vs replaceable (never "Asset Ledger") | registre à deux strates |
 | **Dependency Ledger** | One row per replaceable component: exit path, requalification time, notice, last rehearsed | registre des dépendances |
 | **Frame Card** | One-page, seven-line, signed description of a process's boundaries | fiche-cadre |
 | **normative frame / operational flow** | The owned MUST/MAY/MUST NOT rules vs the sequence a tool happens to follow | cadre normatif / flux opérationnel |

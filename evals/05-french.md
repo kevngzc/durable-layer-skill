@@ -1,6 +1,6 @@
 # Eval 05 — French
 
-> Selon la méthode de la couche durable, à quel niveau de préparation peut-on placer la traduction automatique de nos communiqués de presse ? Les communiqués sont relus par le service de presse avant publication, environ 300 par an, sans glossaire maintenu.
+> Selon la méthode de la strate durable, à quel niveau de préparation peut-on placer la traduction automatique de nos communiqués de presse ? Les communiqués sont relus par le service de presse avant publication, environ 300 par an, sans glossaire maintenu.
 
 A good answer:
 - [ ] Answers **in French**.
