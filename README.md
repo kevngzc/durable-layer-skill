@@ -27,10 +27,10 @@ flowchart LR
 
 Audio overviews of the book's method, always attached to the [latest release](https://github.com/kevngzc/durable-layer-skill/releases/latest):
 
-- 🇬🇧 *The Durable Layer for Enterprise AI*, 26 minutes: [download (m4a, 50 MB)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/The_Durable_Layer_for_Enterprise_AI.m4a)
-- 🇫🇷 *La strate durable*, 17 minutes: [télécharger (m4a, 34 Mo)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/La_couche_durable_podcast_FR.m4a)
+- 🇬🇧 *The Durable Layer for Enterprise AI*, 26 minutes: [download (m4a, 50 MB)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/The_Durable_Layer_podcast_EN.m4a)
+- 🇫🇷 *La strate durable*, 17 minutes: [télécharger (m4a, 34 Mo)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/La_strate_durable_podcast_FR.m4a)
 
-The book's Appendix H QR codes point at these `latest/download` links, so **every release must carry `The_Durable_Layer_for_Enterprise_AI.m4a`, `La_couche_durable_podcast_FR.m4a` and `durable-layer.skill` under exactly those names.**
+The book's Appendix H QR codes point at these `latest/download` links, so **every release must carry `The_Durable_Layer_podcast_EN.m4a`, `La_strate_durable_podcast_FR.m4a` and `durable-layer.skill` under exactly those names.**
 
 ## Install
 
