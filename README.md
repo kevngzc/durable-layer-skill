@@ -30,7 +30,14 @@ Audio overviews of the book's method, always attached to the [latest release](ht
 - 🇬🇧 *The Durable Layer for Enterprise AI*, 26 minutes: [download (m4a, 50 MB)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/The_Durable_Layer_podcast_EN.m4a)
 - 🇫🇷 *La strate durable*, 17 minutes: [télécharger (m4a, 34 Mo)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/La_strate_durable_podcast_FR.m4a)
 
-The book's Appendix H QR codes point at these `latest/download` links, so **every release must carry `The_Durable_Layer_podcast_EN.m4a`, `La_strate_durable_podcast_FR.m4a` and `durable-layer.skill` under exactly those names.**
+## 📝 Worksheets
+
+Appendices A–F of the book at full size: nine A4 pages in black and grey, to print at 100 % and fill in by hand. Each page carries its sheet ID (DL-A to DL-F), so a scan stays identifiable.
+
+- 🇬🇧 [the-durable-layer-worksheets-en.pdf](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/the-durable-layer-worksheets-en.pdf)
+- 🇫🇷 [the-durable-layer-worksheets-fr.pdf](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/the-durable-layer-worksheets-fr.pdf)
+
+The book's QR codes (Appendix H and the Appendices divider) point at these `latest/download` links, so **every release must carry `The_Durable_Layer_podcast_EN.m4a`, `La_strate_durable_podcast_FR.m4a`, `durable-layer.skill`, `the-durable-layer-worksheets-en.pdf` and `the-durable-layer-worksheets-fr.pdf` under exactly those names.** The worksheets are built in the book repository (`python3 tools/build-worksheets.py <lang>`).
 
 ## Install
 
