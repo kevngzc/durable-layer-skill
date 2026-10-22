@@ -27,6 +27,6 @@ One row for every component in the right-hand column; review it at every Swap Re
 
 **Priority rule.** Reduce first any row with **no exit path**, or a **requalification time longer than the notice period** — "a crisis that has not happened yet". An exit path never run is a risk, not a path.
 
-Typical public notice periods to compare against (Ch 12): about 60 days for some frontier model retirements; 3–6 months for others (as little as two weeks for previews); about 12 months for major protocol deprecations. Ask the user for the actual contract figure; do not assume.
+Typical public notice periods to compare against (Ch 12, at the time of writing; check the supplier's current page): at least 60 days from one leading supplier; from another, 6 months for general models, 3 for specialised ones and as little as two weeks for previews; from a third, a retirement date set at launch, about a year out. Major protocols: about 12 months' deprecation window. Ask the user for the actual contract figure; do not assume.
 
 **Small-service rule (Ch 12):** one capability, one contract, one service.

@@ -39,7 +39,7 @@ Weighted mean = (D1 + D2 + D3 + D4 + 1.5 × D5 + D6) ÷ 6.5
 
 | Gate | Condition | Required before any deployment above R1 |
 |:---|:--------------|:-----------------------|
-| **G1** | Personal data is processed | Data protection impact assessment under the UN Principles on Personal Data Protection and Privacy (or the organization's own data-protection regime) |
+| **G1** | Personal data is processed | Data protection impact assessment, consistent with the UN Principles on Personal Data Protection and Privacy (or the organization's own data-protection regime) |
 | **G2** | Decision affects individuals' rights, entitlements or interests, or profiles persons | AI impact assessment; named, competent overseer; recourse route; review every 24 months |
 | **G3** | Output goes to governing bodies or Member States (or a board, regulator, the public record) | Named human sign-off, whatever the score |
 | **G4** | Any level above R1 | Tamper-evident decision log and override logging in place |
@@ -60,7 +60,7 @@ A gate that applies and is not met keeps the task at **R1**. G3 does not cap the
 |:------------------|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:----------------------|
 | Check completeness against mandatory fields | 5 | 5 | 4 | 5 | 5 | 4 | 4.7 | R4 — agent executes, spot audit; G4–G6 required |
 | Map reported measures to policy areas | 3 | 4 | 4 | 4 | 3 | 4 | 3.6 | R3 — agent drafts, focal point confirms every tag |
-| Select findings for the governing bodies | 2 | 3 | 2 | 1 | 1 | 4 | 2.1 | F1 and G3 apply — R1, agent confined to retrieval and summaries |
+| Select findings for the governing bodies | 2 | 3 | 2 | 1 | 1 | 4 | 2.1 | F1, G3 and the borderline rule apply — R1, agent confined to retrieval and summaries |
 
 ## Calibration caveat — state it with every score
 

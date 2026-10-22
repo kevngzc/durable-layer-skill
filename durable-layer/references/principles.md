@@ -44,7 +44,7 @@ Each entry: principle · practice · shortcut and the *sign you took it* · Mond
 - Monday: have the expert describe one weekly decision · get five examples (three that show the rule, two lookalikes) into the wiki · make vendors run them case by case before any demo.
 
 **Ch 7 Every Employee Is a Role, Every Role Has an Oversight Mode** — *People do not fear automation; they fear undefined accountability.*
-- Oversight modes (ISO/IEC 42001): in command · in the loop · on the loop. Overseer duties (EU AI Act Art. 14): understand the system's limits, watch for automation bias, interpret output, override, halt.
+- Oversight modes (EU High-Level Expert Group on AI, 2019; ISO/IEC 42001 asks that oversight scale with risk): in command · in the loop · on the loop. Overseer duties (EU AI Act Art. 14): understand the system's limits, watch for automation bias, interpret output, override, halt.
 - R1–R4 ladder scored per task by two raters (`scorecard-template.md`); floor: high-stakes, rights-affecting, governing-body or irreversible tasks never rise above R2. Expected auto-completion ≈ 95 / 70 / 40 % at R4 / R3 / R2.
 - HR artefacts: role descriptions as tagged tasks (one rung at a time; a failed pilot demotes) · competencies per oversight mode · the right to override · the duty to log it.
 - Shortcut: assistants for everyone, no mode set. Sign: nobody can say who approved last week's output.
