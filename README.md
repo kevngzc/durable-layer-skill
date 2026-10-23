@@ -75,4 +75,4 @@ python3 scripts/sync-check.py ~/Documents/CODE/FUN/the-durable-layer
 
 When the book's chapters or appendices change, re-read the changed parts, update `references/`, run both checks, and write the new book commit into `durable-layer/.source`. The skill condenses the book; the book stays the source of truth.
 
-📜 © 2026 Kevin Guezennec — [CC BY-NC-ND 4.0](LICENSE), same terms as the book.
+📜 © 2026 Kevin Guezennec — [CC BY-NC-ND 4.0](LICENSE), same terms as the book; the templates in `references/` are under CC BY 4.0, like the book's Appendices A–F.
