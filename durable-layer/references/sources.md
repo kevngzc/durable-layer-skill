@@ -16,8 +16,8 @@ Public facts as of the book's 2026 edition. Versions move; when a user's decisio
 | **FAIR principles** | Wilkinson et al. 2016 | Description of every input and output (D2, Ch 1) |
 | **OWASP Top 10 — Agentic 2026 · LLM 2025** | OWASP GenAI Security Project | Threat checklist for the gateway |
 | **NIST AI RMF 1.0** | NIST | Govern / Map / Measure / Manage frame for oversight |
-| **ISO/IEC 42001:2023** | ISO/IEC | Certifiable AI management system; oversight scaled to risk (Annex A.9, use of AI systems) |
-| **EU AI Act, Art. 14** | EU | Human-oversight duties (Ch 7) |
+| **EU AI Act, Art. 14** | EU | Oversight commensurate with risks, autonomy and context of use; human-oversight duties (Ch 7) |
+| **Landis & Koch 1977** | Biometrics | Kappa above 0.60 = substantial agreement; the book asks two raters for κ ≥ 0.70 (Ch 7) |
 | **Ethics Guidelines for Trustworthy AI** | EU High-Level Expert Group on AI, 2019 | The three oversight modes: in command, in the loop, on the loop (Ch 7) |
 | **UN Principles on Personal Data Protection and Privacy** | UN HLCM 2018 | Gate G1; rider clause 10 (outside the UN system, use the organization's own data-protection regime) |
 

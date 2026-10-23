@@ -41,7 +41,7 @@ Modes chain: an assessment ends by offering a Frame Card and a roadmap; a review
 | Procurement Rider, 10 clauses (App E) | `references/procurement-rider-template.md` |
 | Swap Rehearsal Runbook (App F) | `references/swap-rehearsal-runbook-template.md` |
 | Decision page · value→guardrail · expertise capture · golden set · five-line policy · decision table · task-to-model map · tool contract | `references/practice-templates.md` |
-| Standards (BPMN, DMN, SKOS, MCP, ISO/IEC 42001 …) | `references/sources.md` |
+| Standards (BPMN, DMN, SKOS, MCP, EU AI Act …) | `references/sources.md` |
 
 ## Scoring script
 
