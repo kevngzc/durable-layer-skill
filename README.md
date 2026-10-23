@@ -30,6 +30,8 @@ Audio overviews of the book's method, always attached to the [latest release](ht
 - 🇬🇧 *The Durable Layer for Enterprise AI*, 26 minutes: [download (m4a, 50 MB)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/The_Durable_Layer_podcast_EN.m4a)
 - 🇫🇷 *La strate durable*, 17 minutes: [télécharger (m4a, 34 Mo)](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/La_strate_durable_podcast_FR.m4a)
 
+Both were recorded from the October 2026 edition of the book. They cover the method end to end; the v0.3.0 additions (the year-three cost view, the gates mapped to the law, the rider's negotiation fallbacks and the sponsor's first twelve months) are in the book, the worksheets and the skill, not yet in the audio.
+
 ## 📝 Worksheets
 
 Appendices A–F of the book at full size: ten A4 pages in black and grey, to print at 100 % and fill in by hand. Each page carries its sheet ID (DL-A to DL-F), so a scan stays identifiable.
