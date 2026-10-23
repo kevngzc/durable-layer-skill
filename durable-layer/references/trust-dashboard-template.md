@@ -13,7 +13,7 @@ One row per deployed task, reviewed **monthly** by the process owner and **six-m
 | 7 | **Model-requalification time** | Days from retirement notice or swap decision to a qualified replacement | Under 60 days; one sprint | Above 60 days: a notice becomes an outage |
 | 8 | **Incidents and complaints** | Logged harms, drift alerts, complaints, suspensions; gates passed; overseer training complete | Every incident closed with a logged correction | Any incident without a corrective entry; overseers untrained |
 
-**Precondition.** Two independent raters reach κ ≥ 0.70 on the tasks behind the dashboard; below that, the levels and rows 5–7 are not yet meaningful.
+**Precondition.** Two independent raters reach Cohen's κ ≥ 0.70 (agreement beyond chance) on the tasks behind the dashboard; below that, the levels and rows 5–7 are not yet meaningful.
 
 ## Six-monthly recalibration (Ch 8)
 

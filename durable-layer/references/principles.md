@@ -44,7 +44,7 @@ Each entry: principle · practice · shortcut and the *sign you took it* · Mond
 - Monday: have the expert describe one weekly decision · get five examples (three that show the rule, two lookalikes) into the wiki · make vendors run them case by case before any demo.
 
 **Ch 7 Every Employee Is a Role, Every Role Has an Oversight Mode** — *People do not fear automation; they fear undefined accountability.*
-- Oversight modes (EU High-Level Expert Group on AI, 2019): in command · in the loop · on the loop. Oversight must match the risks, the autonomy and the context of use (EU AI Act Art. 14(3)); overseer duties (Art. 14(4)): understand the system's limits, watch for automation bias, interpret output, override, halt.
+- Oversight modes (named by the EU High-Level Expert Group on AI, 2019; the book applies them to tasks): in command · in the loop · on the loop. Oversight must match the risks, the autonomy and the context of use (EU AI Act Art. 14(3)); overseer duties (Art. 14(4)): understand the system's limits, watch for automation bias, interpret output, override, halt.
 - R1–R4 ladder scored per task by two raters (`scorecard-template.md`); floor: high-stakes, rights-affecting, governing-body or irreversible tasks never rise above R2. Expected auto-completion ≈ 95 / 70 / 40 % at R4 / R3 / R2.
 - HR artefacts: role descriptions as tagged tasks (one rung at a time; a failed pilot demotes) · competencies per oversight mode · the right to override · the duty to log it.
 - Shortcut: assistants for everyone, no mode set. Sign: nobody can say who approved last week's output.
@@ -68,7 +68,7 @@ Each entry: principle · practice · shortcut and the *sign you took it* · Mond
 - Monday: list the top five use cases by volume · estimate yearly list-price cost of each · ask whether each could run small, and start a 20-example set where none exists.
 
 **Ch 11 One Gateway, Thin Adapters, Boring Interfaces** — *The organization owns the interface; the tools plug into it.*
-- Tool contract (five fields) · generated, pinned protocol descriptors · policy-as-code · guardrail proxy · hash-chained decision log · kill switch (`practice-templates.md`).
+- Tool contract (five fields) · generated, pinned protocol descriptors · policy-as-code · guardrail proxy · hash-chained, tamper-evident decision log (latest hash copied outside daily) · kill switch (`practice-templates.md`).
 - Shortcut: direct SDK integrations. Sign: nobody can count the model call sites in an afternoon.
 - Monday: count direct call sites and the keys they use · write one five-field contract · plan one door and who holds the kill switch — buy nothing yet.
 

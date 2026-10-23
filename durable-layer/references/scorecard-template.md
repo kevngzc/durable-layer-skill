@@ -64,7 +64,7 @@ A gate that applies and is not met keeps the task at **R1**. G3 does not cap the
 
 ## Calibration caveat — state it with every score
 
-**LARA-derived, organization-calibrated.** The scorecard adapts the LARA matrix (Li & Ye, 2026, preprint), validated in financial-services IT operations with Fleiss' κ 0.80. D1, D2 and D5 descend from validated constructs; D3, D4 and D6 have no validation evidence. The 1.5 weight and the level thresholds are provisional. Before any score changes a deployment mode: re-estimate the weights with a 10–12-expert, three-round Delphi (programme, legal and ethics staff); re-estimate the R1–R4 cut-points by clustering at least 100 of your own scored tasks; reach κ ≥ 0.70 between two independent raters. Recalibrate every six months, on any model swap, on drift above 0.5, or on a regulatory change. Until then, **the ladder is a conversation, not a verdict.**
+**LARA-derived, organization-calibrated.** The scorecard adapts the LARA matrix (Li & Ye, 2026, preprint), validated in financial-services IT operations with Fleiss' κ 0.80. D1, D2 and D5 descend from validated constructs; D3, D4 and D6 have no validation evidence. The 1.5 weight and the level thresholds are provisional. Before any score changes a deployment mode: re-estimate the weights with a 10–12-expert, three-round Delphi (programme, legal and ethics staff); re-estimate the R1–R4 cut-points by clustering at least 100 of your own scored tasks; reach Cohen's κ ≥ 0.70 between two independent raters. Recalibrate every six months, on any model swap, on drift above 0.5, or on a regulatory change. Until then, **the ladder is a conversation, not a verdict.**
 
 ## Gates and the law
 

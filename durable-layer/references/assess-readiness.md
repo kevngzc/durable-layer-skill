@@ -6,7 +6,7 @@ Goal: for a process or use case, say which tasks can be delegated, to what level
 
 - Which process or use case? Who owns it (by role)? Which governing texts apply?
 - Break the activity into **tasks** (verb + object: "check mandatory fields", "assign thesaurus terms", "draft the summary"). An activity hides tasks at different levels; score each.
-- Who are the two raters? If the user is alone, score as rater 1 and say a second independent rater is required (κ ≥ 0.70) before any level changes a deployment.
+- Who are the two raters? If the user is alone, score as rater 1 and say a second independent rater is required (Cohen's κ ≥ 0.70) before any level changes a deployment.
 
 ## 2. Ground check — ten-question data audit (Ch 1)
 

@@ -1,6 +1,6 @@
 # One-Page Procurement Rider (App E, Ch 12)
 
-Attach to any contract for a model, assistant, gateway, platform or integration service. Each clause protects the durable layer and keeps partners interchangeable; **strike none.** When reviewing a contract, report each clause as present / weaker / missing, quoting the contract's wording.
+Attach to any contract for a model, assistant, gateway, platform or integration service. Each clause protects the durable layer and keeps partners interchangeable; **strike none without the fallback below.** When reviewing a contract, report each clause as present / weaker / missing, quoting the contract's wording.
 
 | # | Clause | Wording for the contract |
 |:-:|:------|:------------------|
@@ -18,3 +18,10 @@ Attach to any contract for a model, assistant, gateway, platform or integration 
 Supplier ______________________ · date ____ / ____ / ____ · Dependency Ledger row ______
 
 Not legal advice: the wording is a starting point for the organization's legal adviser, who reads the whole clause.
+
+**In negotiation.** The rider sits beside the organization's general conditions of contract, not above them; privileges and immunities and the disputes clause stay as they are. Hold clauses 1, 2, 4 and 7 without exception: they are what makes the durable layer yours. Where a supplier refuses another, replace it with its fallback and record the gap as a risk in the Dependency Ledger.
+
+- **5, exit test:** without the supplier's cooperation, run it yourself on the exported artefacts before go-live and before each renewal.
+- **6, notice:** if 90 days is refused, take the supplier's published minimum plus the right to stay on the previous version, at the same price, until requalification ends.
+- **8, two model families:** for a single-model product, require the evaluation results in an exportable form, so the set can be run elsewhere.
+- **9, kill switch:** if the product cannot be suspended at will, route it through the gateway, where it can (Chapter 11).

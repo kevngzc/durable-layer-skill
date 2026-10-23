@@ -70,7 +70,7 @@ Signed by the decision-maker, versioned in the wiki. Written with legal and ethi
 For a deterministic decision point; judgement decisions stay human.
 1. **Requirements diagram:** decision as a question; each input as data; arrows; no "who evaluates".
 2. **Signatures first:** input and output names, types, allowed values — before any rule.
-3. **Decision table** with hit policy (top-left): *Unique* (one rule fires; admissibility) · *First* / *Priority* (ordered) · *Collect* (several outputs; tagging). Two rules firing with no winner = decision not yet understood.
+3. **Decision table** with hit policy (top-left): *Unique* (one rule fires; admissibility) · *First* (first matching rule in table order) · *Priority* (the match whose output ranks highest) · *Collect* (several outputs; tagging). Two rules firing with no winner = decision not yet understood.
 
 | U | input 1 | input 2 | input 3 | **output** |
 |---|---|---|---|---|
