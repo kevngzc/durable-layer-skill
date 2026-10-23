@@ -44,3 +44,19 @@ Goal: turn what the user has (or an assessment/review) into a dated, owned, smal
 ```
 
 Shrink or stretch rows to what the user already has; never pad a row with work that already exists.
+
+## Beyond 90 days: the first twelve months (Conclusion)
+
+For the sponsor who chairs the steering committee. Use it to extend a 90-day plan to a year.
+
+**First quarter: names and one process.** Name the owner of the durable layer, by role, and make the Two-Layer Ledger their first document (Appendix D). Count every place where your systems call a model, and find every key (Chapter 11). Choose the process staff most want help with, give its five datasets owners (Chapter 1), and have its owner sign the first Frame Card (Chapter 5, Appendix A).
+
+**Second quarter: the people who know.** With the team that runs that process, tag its tasks and write the first golden set under the expert's name (Chapters 6 and 7). Write the five-line policy and start the trust dashboard's baseline (Chapter 8). No task moves above R1 until its gates G1–G6 have owners.
+
+**Third quarter: the plumbing.** Put the first decision table and its scenario suite in the wiki (Chapter 9). Name the gateway's owner and the holder of the kill switch, and cut one integration over (Chapter 11). Attach the procurement rider, with its ninety days' notice, to the next AI contract that comes up (Appendix E).
+
+**Fourth quarter: the test.** Run the first Swap Rehearsal as an exercise, on one small service, and log what broke (Appendix F). Hold the first six-monthly recalibration (Chapter 8). Book the next two rehearsals.
+
+Each quarter the steering committee reads three pages: the Two-Layer Ledger, with what moved from blank to filled; the alerts on the trust dashboard; the Dependency Ledger, with its notices and exit paths. Governing bodies get the same ledger rather than a count of tools: what the organization now owns, tests and could replace, which lines are still blank, and who signs what reaches Member States.
+
+Staff dialogue starts before the first tag, with the staff association at the table. In a year of reform such as UN80, a list of tasks tagged *agent* will be read as a list of posts to cut, and the sponsor should say plainly what the method promises. It tags tasks, not posts, and it does not decide staffing; that is decided elsewhere, and nothing in this book can promise the outcome. What it can promise, in writing: tags are made with the people who do the work, a tag moves one rung at a time and the holder is told, every role keeps the right to override the machine and the duty to log it, and every golden set carries its author's name.

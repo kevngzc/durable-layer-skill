@@ -30,3 +30,41 @@ One row for every component in the right-hand column; review it at every Swap Re
 Typical public notice periods to compare against (Ch 12, at the time of writing; check the supplier's current page): at least 60 days from one leading supplier; from another, 6 months for general models, 3 for specialised ones and as little as two weeks for previews; from a third, a retirement date set at launch, about a year out. Major protocols: about 12 months' deprecation window. Ask the user for the actual contract figure; do not assume.
 
 **Small-service rule (Ch 12):** one capability, one contract, one service.
+
+## Year-three view
+
+For the budget committee: one column per year, your own figures, staff days at your own day rate. Fill one copy for scenario A, one project per use case, and one for scenario B, a shared durable layer; compare them at year three, not year one.
+
+Scenario (A or B) ______ · Organization or unit ______________ · Date ____ / ____ / ____
+
+| Line | Year 1 | Year 2 | Year 3 | Source in this book |
+|:----------------|:---|:---|:---|:-------|
+| **Durable layer** · staff days | | | | |
+| Frame Cards · one per process, drafted with the owner and signed |   | | | Ch 5 · App A |
+| Golden sets · one per task, written by the expert |   | | | Ch 6 |
+| Readiness scoring · two raters per task, per scoring round |   | | | Ch 7 · App B |
+| Swap Rehearsals · two a year, one sprint, five roles |   | | | Ch 12 · App F |
+| Kill-switch tests · monthly |   | | | Ch 11 |
+| Recalibration · six-monthly, three people |   | | | Ch 8 · App C |
+| **Replaceable layer** · money | | | | |
+| Licences and API · per task-month, from the task-to-model map |   | | | Ch 10 |
+| Hardware · capital |   | | | Ch 10 |
+| Hardware · operations, or managed inference |   | | | Ch 10 |
+| Gateway · product, hosting, its owner's time |   | | | Ch 11 |
+| **Exit** · for the rows of the Dependency Ledger | | | | |
+| Requalification · staff days, notice to qualified replacement |   | | | Ch 12 · App D |
+| Export · staff days to receive and check it; the supplier's part is free under the rider |   | | | App E, clause 4 |
+| Parallel running · incumbent kept until the swap |   | | | App E, clause 6 · App F |
+| Estimated exit cost · the three lines above, summed |   | | | App D |
+| **Total cost** · durable + replaceable + exit |   | | | |
+| **Value** | | | | |
+| Staff hours per cycle · against the baseline before AI |   | | | Ch 12 · App C |
+| Cost per completed task · total cost ÷ tasks completed |   | | | Ch 10 · App C |
+
+**Planning assumptions to replace with your own.** Only what this book states; estimate everything else locally.
+
+- A Frame Card: an hour at the process owner's desk, with the governing text open, then a signature (Ch 5).
+- A golden set: a few dozen worked examples, chosen and explained by the expert, weighted towards the hard cases (Ch 6).
+- A Swap Rehearsal: one sprint, five roles, twice a year; day 1 pin, days 2–5 the four tests, days 6–8 review and log, days 9–10 swap or demote (App F).
+- The gateway: about a week to cut over each direct integration; each adapter small enough for one engineer to rewrite in a week (Ch 11).
+- Two independent raters per task (App B); recalibration, three people every six months (Ch 8); the kill switch tested monthly (Ch 11). Day rates, prices, hardware and volumes: estimate locally.

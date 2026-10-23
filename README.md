@@ -32,7 +32,7 @@ Audio overviews of the book's method, always attached to the [latest release](ht
 
 ## 📝 Worksheets
 
-Appendices A–F of the book at full size: nine A4 pages in black and grey, to print at 100 % and fill in by hand. Each page carries its sheet ID (DL-A to DL-F), so a scan stays identifiable.
+Appendices A–F of the book at full size: ten A4 pages in black and grey, to print at 100 % and fill in by hand. Each page carries its sheet ID (DL-A to DL-F), so a scan stays identifiable.
 
 - 🇬🇧 [the-durable-layer-worksheets-en.pdf](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/the-durable-layer-worksheets-en.pdf)
 - 🇫🇷 [the-durable-layer-worksheets-fr.pdf](https://github.com/kevngzc/durable-layer-skill/releases/latest/download/the-durable-layer-worksheets-fr.pdf)

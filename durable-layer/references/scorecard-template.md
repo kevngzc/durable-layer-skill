@@ -65,3 +65,20 @@ A gate that applies and is not met keeps the task at **R1**. G3 does not cap the
 ## Calibration caveat — state it with every score
 
 **LARA-derived, organization-calibrated.** The scorecard adapts the LARA matrix (Li & Ye, 2026, preprint), validated in financial-services IT operations with Fleiss' κ 0.80. D1, D2 and D5 descend from validated constructs; D3, D4 and D6 have no validation evidence. The 1.5 weight and the level thresholds are provisional. Before any score changes a deployment mode: re-estimate the weights with a 10–12-expert, three-round Delphi (programme, legal and ethics staff); re-estimate the R1–R4 cut-points by clustering at least 100 of your own scored tasks; reach κ ≥ 0.70 between two independent raters. Recalibrate every six months, on any model swap, on drift above 0.5, or on a regulatory change. Until then, **the ladder is a conversation, not a verdict.**
+
+## Gates and the law
+
+For UN-system organizations these instruments are references, not obligations: privileges and immunities generally keep them outside national and EU law, and internal rules apply. For a national public body, many are binding law. Check with your legal office.
+
+| Gate | UN-system reference | EU: AI Act · GDPR | National examples |
+|:-----|:-------------|:--------------|:-------------|
+| **G1** Personal data | HLCM data principles: risk-benefit assessment; model policy J–K: data protection impact assessments | GDPR art. 35 (impact assessment); AI Act art. 26(9) (provider information feeds it) | — |
+| **G2** Rights or profiling | CEB principles: human autonomy and oversight, transparency and explainability; model policy F: AI impact assessment, reviewed at least every 24 months; M: complaints | AI Act art. 4 (AI literacy), 14 (human oversight), 26(2) (competent overseers), 26(11) (persons informed), 27 (fundamental-rights impact assessment, public bodies), 86 (explanation); GDPR art. 22 | Canada, Directive on Automated Decision-Making 6.1 (algorithmic impact assessment), 6.2 (notice, explanation), 6.3.9 (training), 6.4 (recourse); France, CRPA L311-3-1 (decision states an algorithm was used; main rules on request), L312-1-3 (main rules published online) |
+| **G3** Governing bodies | CEB principles: responsibility and accountability; model policy K: labelling and quality control of AI-generated content | AI Act art. 50(4) (AI-generated text on public-interest matters disclosed unless a person with editorial responsibility reviewed it) | — |
+| **G4** Decision log | Model policy L: tracking and explaining AI-driven decisions; retention for audit | AI Act art. 12 (automatic logs), 13(3)(f) (log mechanisms described), 26(6) (deployer keeps logs at least six months) | Canada directive 6.2.7 (decisions documented), 6.3.4 (overrides documented), 6.3.11 (protection against tampering) |
+| **G5** Golden set | Model policy K: testing standards, quality control | AI Act art. 13(3)(b)(ii) (accuracy and the metrics it was tested against) | Canada directive 6.3.1 (testing before production), 6.3.2 (outcome monitoring) |
+| **G6** Exit test | Model policy J: care with third-party systems that store or train on data; K: supplier evaluation, interoperability | — | Canada directive 6.2.5–6.2.6 (released versions kept; right to access, test and audit proprietary components) |
+
+CEB principles: *Principles for the Ethical Use of AI in the UN System* (2022). HLCM data principles: *Principles on Personal Data Protection and Privacy* (2018). Model policy: HLCM *Framework for a Model Policy on the Responsible Use of AI* (2024), by section letter. AI Act articles 12–14, 26, 27 and 86 concern high-risk systems; article 4 concerns all.
+
+**The floor and the law.** F1 keeps decisions that affect rights at R2 or below, with a person deciding. The same line runs through GDPR art. 22 (no decision based solely on automated processing with legal or similar effect, save exceptions), AI Act art. 14 (override and halt) and 86 (explanation), and CRPA L311-3-1 (the person is told an algorithm was used).
