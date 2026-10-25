@@ -1,6 +1,6 @@
 # Frame Card (App A, Ch 5)
 
-One card per process, one page, written with the process owner and **signed by them**. Describe boundaries, not sequence; the operational flow lives below the card and may change with every tool. D1–D3 on line 7 are the card's **decision points**, not the scorecard dimensions D1–D6.
+One card per process, one page, written with the process owner and **signed by them**. Describe boundaries, not sequence; the operational flow lives below the card and may change with every tool. P1–P3 on line 7 are the card's **decision points**, not the scorecard dimensions D1–D6.
 
 **How to fill it with a user**
 - Start with line 6, and with the MUST NOT sentences: "What must never happen in this process?" Read them back; ask for a signature.
@@ -22,9 +22,9 @@ One card per process, one page, written with the process owner and **signed by t
 | | | MUST NOT |
 | | | MAY |
 | | | MUST NOT |
-| 7 | **Decision points** — stakes · reversibility · oversight mode (in command / in the loop / on the loop) | D1 |
-| | | D2 |
-| | | D3 |
+| 7 | **Decision points** — stakes · reversibility · oversight mode (in command / in the loop / on the loop) | P1 |
+| | | P2 |
+| | | P3 |
 | | **Process debt** — known gaps between this card and current practice | |
 
 Owner ______________________ · signed ____ / ____ / ____ · frame v____
@@ -39,5 +39,5 @@ Owner ______________________ · signed ____ / ____ / ____ · frame v____
 | 4 | Roles | Focal point · HUMAN — submission platform · SYSTEM — classification assistant · AGENT — drafting the report · HYBRID. Owner: the focal point |
 | 5 | Variability class | Collect and process: predefined, repeatable · Analyse: knowledge-driven case |
 | 6 | Normative frame | MUST acknowledge every submission by the published deadline · MUST NOT alter any text a Member State submitted, by any actor other than the submitting State · MAY propose classification tags for human confirmation · MUST NOT send anything to governing bodies without a named signature |
-| 7 | Decision points | D1 Admissible and complete? — low · reversible · on the loop · D2 Which policy area for each measure? — medium · correctable · in the loop, every tag confirmed · D3 Which findings go to the governing bodies? — high · in command; agent limited to retrieval and summaries |
+| 7 | Decision points | P1 Admissible and complete? — low · reversible · on the loop · P2 Which policy area for each measure? — medium · correctable · in the loop, every tag confirmed · P3 Which findings go to the governing bodies? — high · in command; agent limited to retrieval and summaries |
 | | Process debt | Translation sometimes precedes validation; classification by two people in a changing order. Neither violates the frame. |

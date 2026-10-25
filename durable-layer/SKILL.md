@@ -12,7 +12,7 @@ A team is ready when any current AI tool can be connected to its core processes 
 ## Invariants
 
 1. **Never invent the user's facts.** Ask; or leave the field blank and mark it *open*. A template half-filled with real answers beats one filled with plausible ones.
-2. **Use the fixed vocabulary** (`references/glossary.md`): Two-Layer Ledger (never "Asset Ledger"); Frame Card decision points D1–D3 ≠ scorecard dimensions D1–D6; R1–R4; in command / in the loop / on the loop; MUST / MAY / MUST NOT.
+2. **Use the fixed vocabulary** (`references/glossary.md`): Two-Layer Ledger (never "Asset Ledger"); Frame Card decision points P1–P3 ≠ scorecard dimensions D1–D6; R1–R4; in command / in the loop / on the loop; MUST / MAY / MUST NOT.
 3. **Score tasks, not activities or jobs.** Floors are non-compensable (D5 ≤ 2 → max R2; D1 ≤ 2 → max R3); just above a threshold rounds towards more human; an unmet gate keeps the task at R1. Model choice never raises the level.
 4. **Every score carries the caveat:** *LARA-derived, organization-calibrated* — weights and thresholds are provisional until re-estimated locally and two raters reach κ ≥ 0.70. Until then the ladder is a conversation, not a verdict. Dashboard bands are practitioner-sourced; say so.
 5. **Demote, never block.** A failed test lowers a deployment mode; the business continues.

@@ -1,6 +1,6 @@
 # Readiness Scorecard (App B, Ch 7)
 
-Score **tasks**, not activities: most activities contain tasks at two or more levels. Two independent raters per task; the weighted mean gives a level, the **floor rules** cap it, the **gates** sit outside the score. D1–D6 here are scoring dimensions, not the decision points D1–D3 of a Frame Card.
+Score **tasks**, not activities: most activities contain tasks at two or more levels. Two independent raters per task; the weighted mean gives a level, the **floor rules** cap it, the **gates** sit outside the score. D1–D6 here are scoring dimensions, not the decision points P1–P3 of a Frame Card.
 
 Compute with `scripts/score.py` when code execution is available; otherwise by hand, showing the arithmetic.
 

@@ -13,7 +13,7 @@ Use these terms exactly. English is canonical; when answering in another languag
 | **process debt** | Known gaps between the Frame Card and current practice | dette de processus |
 | **variability class** | Predefined and repeatable, or knowledge-driven case | classe de variabilité |
 | **MUST / MAY / MUST NOT** | Actor-neutral rule forms (written for any colleague, system or agent) | DOIT / PEUT / NE DOIT PAS |
-| **decision points D1–D3** | Line 7 of a Frame Card — **not** the scorecard dimensions | points de décision D1–D3 |
+| **decision points P1–P3** | Line 7 of a Frame Card — **not** the scorecard dimensions | points de décision P1–P3 |
 | **dimensions D1–D6** | Scorecard dimensions (App B) — **not** the Frame Card decision points | dimensions D1–D6 |
 | **R1–R4** | Readiness levels: R1 human only · R2 human-led with copilot · R3 agent drafts, human approves every output · R4 agent acts, human audits a sample | niveaux de préparation R1–R4 |
 | **oversight modes** | in command · in the loop · on the loop | aux commandes · dans la boucle · sur la boucle |
