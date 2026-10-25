@@ -1,6 +1,6 @@
 # Fixed vocabulary
 
-Use these terms exactly. English is canonical; when answering in another language, translate the term and give the English in parentheses on first use. French renderings below follow the French edition's lexicon (Appendix I of *La strate durable*).
+Use these terms exactly. English is canonical; when answering in another language, translate the term and give the English in parentheses on first use. French renderings below follow the French edition's lexicon (Appendix I of *La strate durable*); where the FR column is English (gateway, golden set, kill switch), French practitioners use the English word: keep it, in roman, and do not translate it. Likewise in French: framework, pipeline, embeddings, fine-tuning, tag/taguer, policy as code, prompt, token, notebook, cloud.
 
 | Term | Meaning | FR |
 |---|---|---|
@@ -19,16 +19,16 @@ Use these terms exactly. English is canonical; when answering in another languag
 | **oversight modes** | in command · in the loop · on the loop | aux commandes · dans la boucle · sur la boucle |
 | **floor (F1, F2)** | Non-compensable cap on the level, whatever the mean | plancher |
 | **gates G1–G6** | Pass/fail conditions outside the score, required above R1 | portes G1–G6 |
-| **golden set** | Expert-authored examples with correct output, criterion and why; test suite and career artefact | jeu de référence |
+| **golden set** | Expert-authored examples with correct output, criterion and why; test suite and career artefact | golden set |
 | **scenario suite** | 20–50 cases with known outputs; acceptance test for a decision table | suite de scénarios |
 | **five-line policy** | Decision · cues · weights · exceptions · who may deviate | politique en cinq lignes |
 | **process-alignment score** | How far a model's reasons weight the cues as the policy does; the acceptance gate | score d'alignement |
 | **tool contract** | Five fields: name, inputs, outputs, side-effect class, required authority | contrat d'outil |
-| **gateway** | The one door every model and tool call passes through | passerelle |
+| **gateway** | The one door every model and tool call passes through | gateway |
 | **thin adapter** | Protocol adapter one engineer can rewrite in a week; holds no organizational logic | adaptateur mince |
-| **kill switch** | Control held by a named duty manager that stops a route, tool, model or everything, without a deployment | coupe-circuit |
+| **kill switch** | Control held by a named duty manager that stops a route, tool, model or everything, without a deployment | kill switch |
 | **requalification time** | Days from a retirement notice or swap decision to a qualified replacement | délai de requalification |
-| **Swap Rehearsal** | Replacing one model or tool end to end inside one sprint, against the evaluation set; twice a year | répétition de remplacement |
+| **Swap Rehearsal** | Replacing one model or tool end to end inside one sprint, against the evaluation set; twice a year | exercice de bascule |
 | **demote, never block** | A failed test lowers the deployment mode; the business continues | rétrograder, jamais bloquer |
 | **partners above a stable line** | Vendors compete on the replaceable layer; the interface belongs to the organization | partenaires au-dessus d'une ligne stable |
 

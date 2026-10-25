@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — 2026-10-25
+
+- Glossary: French renderings follow the French edition's new lexicon: gateway, golden set and kill switch stay in English, and the Swap Rehearsal is the « exercice de bascule »; French answers keep the AI terms francophone teams say in English (framework, pipeline, embeddings, fine-tuning, tag, policy as code).
+
 ## 0.3.0 — 2026-10-23
 
 - References follow the book's reader-panel pass: the year-three cost view (ledgers-template), gates G1–G6 mapped to UN references, the EU AI Act, GDPR and national examples (scorecard-template), the rider's negotiation fallbacks (procurement-rider-template), a twelve-month roadmap for the sponsor (roadmap), Cohen's κ for two raters, DMN *First* / *Priority* hit policies, a tamper-evident decision log, the HLEG modes as the book applies them to tasks.
