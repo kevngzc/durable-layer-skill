@@ -73,7 +73,7 @@ Each entry: principle · practice · shortcut and the *sign you took it* · Mond
 - Shortcut: direct SDK integrations. Sign: nobody can count the model call sites in an afternoon.
 - Monday: count direct call sites and the keys they use · write one five-field contract · plan one door and who holds the kill switch — buy nothing yet.
 
-**Ch 12 Free to Switch** — *Every dependency is a future cost; every open contract is a future option; future-proof is a rehearsal, not a feature.*
+**Ch 12 Free to Switch** — *Future-proof is a rehearsal, not a feature.*
 - Dependency Ledger (`ledgers-template.md`) · small-service rule · procurement rider (`procurement-rider-template.md`) · Swap Rehearsal twice a year (`swap-rehearsal-runbook-template.md`); failure demotes, never blocks.
 - Shortcut: the do-everything platform, or the integration that lived in one head. Sign: the Swap Rehearsal cannot be scheduled, because nobody can say what would be swapped for what.
 - Monday: find the exit clause in the largest AI contract · start the ledger with five components · book two rehearsals six months apart, each with an owner.
