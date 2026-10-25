@@ -2,6 +2,7 @@
 
 ## Unreleased — 2026-10-25
 
+- Principles follow the book's shorter chapter titles (ch 1, 3, 4, 7, 8, 10, 11, 12) and its new chapter 10 pattern: no generative model where a prediction (rule, decision table, classifier) will do; energy per task on the task-to-model map.
 - Glossary: French renderings follow the French edition's new lexicon: gateway, golden set and kill switch stay in English, and the Swap Rehearsal is the « exercice de bascule »; French answers keep the AI terms francophone teams say in English (framework, pipeline, embeddings, fine-tuning, tag, policy as code).
 
 ## 0.3.0 — 2026-10-23
